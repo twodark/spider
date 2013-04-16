@@ -1,0 +1,10 @@
+('J:\\pyinstaller-2.0\\spider\\dist\\spider.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ True,
+ 0,
+ 1366030022L)
